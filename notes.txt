@@ -1,0 +1,13 @@
+
+npm install react-player
+npm install typography
+npm install layout
+npm install react-grid-layout
+npm install react-html5video --save
+npm install axios
+npm install cors --save
+npm i request -D
+npm i querystring-es3 path-browserify buffer crypto-browserify stream-http stream-browserify url util
+npm i browserify-zlib
+
+npm start --> to start server
